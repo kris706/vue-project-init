@@ -1,6 +1,6 @@
 ## 项目介绍
 
-基于vue-cli3 搭建的初始化项目模版,使用了element-ui框架，axios调用接口，normalize初始化css。并配置了axios设置封装了接口调用方法。并配置了多环境切换。
+基于vue-cli3 搭建的初始化项目模版,使用了element-ui框架，axios调用接口，normalize初始化css。并配置了axios设置封装了接口调用方法,多语言支持。并配置了多环境切换。
 
 ## 依赖模块
 
@@ -9,6 +9,7 @@
 4. [axios](http://www.axios-js.com/)
 5. [vuex](https://vuex.vuejs.org/)
 6. [element-ui](https://element.eleme.cn/#/zh-CN)
+6. [vue-i18n](http://kazupon.github.io/vue-i18n/)
 
 ## 安装运行
 
